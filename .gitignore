@@ -1,0 +1,45 @@
+
+# Compiled Java files
+*.class
+
+# Build directories
+target/
+build/
+out/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
